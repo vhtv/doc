@@ -1,5 +1,7 @@
 # VHTV goes open source
 
+<img src=banner.jpg alt="Vladmir Chmil"/>
+
 Hi all VHTV fans! I am Vladimir Chmil, lead developer of Voyeur House TV. 
 
 We are pleased to announce that VHTV will be officially open source software soon! 
@@ -24,4 +26,4 @@ By the end of the next week, we are going to publish an article about technical 
 
 In addition to this, we are starting a bug bounty. If you see a security bug, you can communicate it to me via my telegram @ulv8888 and we add from 7 to 14 days to your current subscription, depends on severity of the bug.
 
-If you have any questions or want to propose a feature, I am glad to answer your questions in the topic below or in my Telegram @ulv8888.
+If you have any questions or want to propose a feature, I am glad to answer your questions in the topic below or in my Telegram @ulv8888 or by email vladimir.chmil@gmail.com.
